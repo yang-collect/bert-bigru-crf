@@ -12,6 +12,10 @@
 
 模型在经过15个epoch之后在测试集上的loss为：7.310302734375
 
+`/src/eval.py` 验证结果如下：
+
+![image-20210910002126228](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210910002126228.png)
+
 这里取出训练集的第一条进行验证，
 
 `/src/predict.py 输出如下：`

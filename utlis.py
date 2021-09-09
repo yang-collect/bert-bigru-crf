@@ -22,7 +22,7 @@ def read_data(path=config.train_path):
                 content.append(text)
                 # 对label进行padding，将长度不足的进行补齐，并未做裁剪，padding的时候取O作为padding的填充值
                 labels.append([label_map['O']] + [label_map[item] for item in label] + [label_map['O']] * (
-                        config.max_length + 1 - len(label)))
+                        config.max_length -1 - len(label)))
     return content, labels
 
 

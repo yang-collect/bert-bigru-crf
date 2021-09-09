@@ -36,7 +36,7 @@
 
 `/src/predict.py 输出如下：`
 
-![image-20210909130203363](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210909130203363.png)
+![image-20210909130203363](https://github.com/yang-collect/bert-bigru-crf/blob/main/image-20210910004413986.png)
 
 
 

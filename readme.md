@@ -30,7 +30,7 @@
 
 `/src/eval.py` 验证结果如下：
 
-![image-20210910002126228](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210910002126228.png)
+![image-20210910002126228](https://github.com/yang-collect/bert-bigru-crf/blob/main/image-20210910002126228.png)
 
 这里取出训练集的第一条进行验证，
 
@@ -42,4 +42,4 @@
 
 `/src/server.py 在postman上测试结果如下：`
 
-![image-20210909130428081](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210909130428081.png)
+![image-20210909130428081](https://github.com/yang-collect/bert-bigru-crf/blob/main/image-20210909130428081.png)

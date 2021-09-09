@@ -30,7 +30,7 @@
 
 `/src/eval.py` 验证结果如下：
 
-![image-20210910002126228](https://github.com/yang-collect/bert-bigru-crf/blob/main/image-20210910002126228.png)
+![image-20210910002126228](https://github.com/yang-collect/bert-bigru-crf/blob/main/image-20210910022001266.png)
 
 这里取出训练集的第一条进行验证，
 
